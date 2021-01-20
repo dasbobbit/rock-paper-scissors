@@ -1,5 +1,5 @@
-Creating the game rock paper scissors using JavaScript.
+Creating the game rock paper scissors for The Odin Project
 
-Currently only console based.
+Added the GUI to the game. Will make the game look more appealing at a future date.
 
-Yet to add GUI.
+[Live Demo](https://dasbobbit.github.io/rock-paper-scissors/)
